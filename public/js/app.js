@@ -31836,7 +31836,7 @@ module.exports = function spread(callback) {
 /* 35 */
 /***/ (function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+throw new Error("Module build failed: ModuleBuildError: Module build failed: \n/* sidebar */\n            ^\n      Invalid CSS after \"/* sidebar */\": expected 1 selector or at-rule, was \".\"\n      in /home/vagrant/code/sample/resources/assets/sass/app.scss (line 258, column 14)\n    at runLoaders (/home/vagrant/code/sample/node_modules/webpack/lib/NormalModule.js:195:19)\n    at /home/vagrant/code/sample/node_modules/loader-runner/lib/LoaderRunner.js:364:11\n    at /home/vagrant/code/sample/node_modules/loader-runner/lib/LoaderRunner.js:230:18\n    at context.callback (/home/vagrant/code/sample/node_modules/loader-runner/lib/LoaderRunner.js:111:13)\n    at Object.asyncSassJobQueue.push [as callback] (/home/vagrant/code/sample/node_modules/sass-loader/lib/loader.js:55:13)\n    at Object.done [as callback] (/home/vagrant/code/sample/node_modules/neo-async/async.js:8077:18)\n    at options.error (/home/vagrant/code/sample/node_modules/node-sass/lib/index.js:294:32)");
 
 /***/ })
 /******/ ]);
